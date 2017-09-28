@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Drawing Circles</string>
+
+    <string name="black">BLACK</string>
+    <string name="red">RED</string>
+    <string name="green">GREEN</string>
+    <string name="blue">BLUE</string>
+
+    <string name="draw">DRAW</string>
+    <string name="moving">MOVING</string>
+    <string name="delete">DELETE</string>
+
+
+</resources>
